@@ -1,2 +1,1 @@
 # kong-simple-jwt
-# Ok
